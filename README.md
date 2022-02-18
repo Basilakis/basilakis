@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 📈 Stats 
  
-[![Artur github stats](https://github-readme-stats.vercel.app/api?username=arturnfranco&theme=cobalt&show_icons=true&title_color=2ED3EA)](https://github.com/ArturFranco/github-readme-stats)
+[![Artur github stats](https://github-readme-stats.vercel.app/api?username=Basilakis&theme=cobalt&show_icons=true&title_color=2ED3EA)](https://github.com/ArturFranco/github-readme-stats)
 
 ### 💡  Languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arturnfranco&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basilakis&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
