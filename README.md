@@ -1,4 +1,4 @@
-### Hi there 👋 You are now visitor <img src="https://komarev.com/ghpvc/?username=Basilakis&color=brightgreen" alt="watching_count" />
+### Hi there 👋 You are now visitor ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Basilakis.Basilakis)
 
 <!--
 **Basilakis/basilakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
