@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 You are now visitor <img src="https://komarev.com/ghpvc/?username=Basilakis&color=brightgreen" alt="watching_count" />
 
 <!--
 **Basilakis/basilakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
