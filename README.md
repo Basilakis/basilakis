@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 📈 Stats 
  
-[![Basilis github stats](https://github-readme-stats.vercel.app/api?username=Basilakis&theme=tokyonight&show_icons=true&title_color=2ED3EA)](https://github.com/ArturFranco/github-readme-stats)
+[![Basilis github stats](https://github-readme-stats.vercel.app/api?username=Basilakis&theme=tokyonight&show_icons=true&title_color=2ED3EA)](https://github.com/Basilakis/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Basilakis&theme=tokyonight" alt="mystreak"/>
 
 ### 💡  Languages 
