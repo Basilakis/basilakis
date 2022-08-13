@@ -17,6 +17,3 @@ Here are some ideas to get you started:
 ### 📈 Stats 
  
 [![Basilis github stats](https://github-readme-stats.vercel.app/api?username=Basilakis&theme=monokai&show_icons=true&title_color=2ED3EA)](https://github.com/Basilakis/github-readme-stats)
-
-### 💡  Languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basilakis&hide=scss&layout=compact&theme=monokai&title_color=2ED3EA)
